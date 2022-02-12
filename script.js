@@ -1,2 +1,4 @@
-const bring = confirm("Принесешь исчо пазязя?");
+(() => {
+const bring = confirm("Can you bring more?");
 console.log(bring);
+})();
